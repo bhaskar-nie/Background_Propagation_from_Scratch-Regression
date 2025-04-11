@@ -54,8 +54,6 @@ The neural network implemented in this project has the following structure:
 - **W2**: Weights connecting hidden layer to output layer (shape: 2×1)
 - **b2**: Bias for output layer neuron (shape: 1×1)
 
-To generate a visual representation of this architecture, you can use the `plot_neural_network()` function included in the notebook.
-
 ## How the Network Works
 
 1. **Parameter Initialization**: Weights are initialized to small values (0.1) and biases to zeros.
